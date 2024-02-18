@@ -3,7 +3,7 @@ import smtplib
 from datetime import datetime
 
 # Your email address
-your_email = "yuvaluzanstudio@gmail.com"
+your_email = "blabla@gmail.com"
 
 # Bash command to check for updates
 update_command = "sudo apt list --upgradable"
